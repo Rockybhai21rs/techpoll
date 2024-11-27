@@ -4,7 +4,7 @@ import threading
 import time
 from telebot import types
 # weka token ya bot apa
-bot = telebot.TeleBot("6733585010:AAGywZFsAnz_kdUiomEFnnU_Kcjtp0qpnA8")
+bot = telebot.TeleBot("7481226930:AAFpsEUkjpHA9bUhEsMBvvFZTubjdcsK3Ys")
 
 # hii nayo ni list ya maswali bot itakua inachagua kisha inauliza
 tech_quiz_questions = [
